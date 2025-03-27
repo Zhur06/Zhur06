@@ -9,6 +9,9 @@
   - 🧮 I love math, especially calculus and number theory. At the university I try to use my knowledge to develop further communication skills by sharing my knowledge with others
   - 🏫 I am an active visitor of programming events like meetups and conferences
   - 💬 I'm a cofounder of [a programming community](https://t.me/some_kind_of_programmers)
+- 🏆 Recent achievements
+  - (06.03.2025) \[Algorithms, Matlab\] Won one of the challenges of [INEC IT Day](https://mernokverseny.hu/day1.html)
+  - (22-23.02.2025) \[AI, ML, Classic ML\] Won the [Watt's Up? Hacking for Energy Efficiency](https://moderate-project.eu/tu-wien-hosts-groundbreaking-hackathon-on-energy-efficiency-and-synthetic-data/) hackathon
 - 📽️ My best projects:
   - 🧩 Contributing to [puzzleswap](https://puzzleswap.org/):
     - 🏔️ [MegaMeme](https://mega.meme/)
