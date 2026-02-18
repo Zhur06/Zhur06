@@ -1,8 +1,8 @@
 ### Hello, my name is Alexander Zhuravlev
 
 - 👨‍💻 I'm a frontend developer, who learnt Vue js and currently coding on Angular
+- 🏫 I'm currently studying and working at Budapest University of Technology and Economics ([BME](https://bme.hu/en/)), Faculty of Electrical Engineering and Informatics ([VIK](https://vik.bme.hu/en/)), __Computer Engineering__, having an exchange at the [University of Twente.](https://www.utwente.nl/en/)
 - 🎓 I've graduated from the State budgetary general educational institution of the city state of Moscow __School №179__
-- 🏫 I'm currently studying at Budapest University of Technology and Economics ([BME](https://bme.hu/en/)), Faculty of Electrical Engineering and Informatics ([VIK](https://vik.bme.hu/en/)), __Computer Engineering__   
 - 🌱 I'm interested in growing towards a broader horizon and increasing the number of qualifications
   - 📚 I've studied a lot how to write a code with best quality
   - 🖥️ I've started programming from desktop and backend, where I learnt about code architecture and other useful hard skills
