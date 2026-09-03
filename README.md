@@ -10,9 +10,11 @@
   - 🏫 I am an active visitor of programming events like meetups and conferences
   - 💬 I'm a cofounder of [a programming community](https://t.me/some_kind_of_programmers)
 - 🏆 Recent achievements
+  - (29.05.2026) \[AI, ML, GeoSpace\] Got the second place on the HERE Eindhoven GeoSpatial Hackathon in solo (among teams of three)
   - (06.03.2025) \[Algorithms, Matlab\] Won one of the challenges of [INEC IT Day](https://mernokverseny.hu/day1.html)
   - (22-23.02.2025) \[AI, ML, Classic ML\] Won the [Watt's Up? Hacking for Energy Efficiency](https://moderate-project.eu/tu-wien-hosts-groundbreaking-hackathon-on-energy-efficiency-and-synthetic-data/) hackathon
 - 📽️ My best projects:
+  - 📜 Automated Assessment System at AUT department, BME
   - 🧩 Contributing to [puzzleswap](https://puzzleswap.org/):
     - 🏔️ [MegaMeme](https://mega.meme/)
     - 🟠 [Pluto](https://pluto.puzzleswap.org/)
