@@ -26,3 +26,5 @@
 - 💬 How to reach me:
   - 📱 [telegram](https://t.me/Zhur06)
   - 📫 email: zhur06@gmail.com
+
+You can also find my CV [here](https://github.com/Zhur06/Zhur06/blob/main/CV_Alexander_Zhuravlev_SE.pdf)
